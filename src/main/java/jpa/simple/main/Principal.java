@@ -14,7 +14,7 @@ import javax.persistence.TypedQuery;
 
 import jpa.simple.modelo.Completo;
 
-//Comentarios adicionalaes.
+//Comentarios adicionales.
 
 public class Principal {
 
